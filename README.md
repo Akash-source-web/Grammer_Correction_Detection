@@ -37,12 +37,13 @@
    I use Streamlit to deploy the Project.
    This app take a CSV file as a input and give you the output which you can download.
    
- #####Some of the Screen Shoots are attached below:
+ ##### Some of the Screen Shoots are attached below:
 
 
  ### Quetions:
    Q.Write about any difficult problem that you solved. 
     (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution). 
+    
    A.For me the most diffcult problem is the grammer check problem beacouse it very diffcult to 
      make a raw model for the grammer detection and correction and in order to search this I go through
      the internet and YouTube as well but I did not find any one who give me any raw model to check
@@ -59,5 +60,6 @@
      The set of pairs (a, b) for all real a ≥ b
      The set of pairs (a, 2a) for all real a
      The set of pairs (a, b) for all non-negative real a,b
+     
    A.The set of pairs (a, b) for all real a ≥ b
 
